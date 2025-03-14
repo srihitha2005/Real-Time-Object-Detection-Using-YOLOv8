@@ -17,6 +17,9 @@ Ensure you have the following dependencies installed:
 pip install ultralytics opencv-python numpy torch torchvision
 ```
 
+## Dataset
+You can access the dataser from :(https://drive.google.com/drive/folders/1LEEqK_163wnuBrizoMN6aEXEd7YAuVJn?usp=sharing)
+
 ## References
 - [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)
 
